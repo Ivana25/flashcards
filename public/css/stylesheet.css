@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(1, 183, 255);
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: cursive;
+    text-shadow: 7px 7px 100px whitesmoke, 0 0px 40px rgb(255, 0, 212), 0 0 50px rgb(255, 0, 212);
+}
+
+h1{
+    font-size: 80px;
+    margin-top: 50px;
+}
+
+button{
+    width: 150px;
+    height: 80px;
+    margin: 35px;
+    font-size: 30px;
+    border: 5px solid;
+    border-color: rgb(255, 0, 212);
+    color: rgb(1, 183, 255);
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+ input {
+    height: 90px;
+    width: 30%;
+    margin: 20px;
+    border: 10px solid;
+    border-radius: 50px;
+    text-align: center;
+    border-color: rgb(255, 0, 212);
+    color: rgb(1, 183, 255);
+}
+
+  .card {
+    border: 10px solid rgb(255, 0, 212);
+    color: rgb(1, 183, 255);
+    height: 425px;
+    width: 450px;
+    border-radius: 25%;
+    padding-top: 100px;
+    margin-left: 33%;
+    margin-top: 5px;
+    word-wrap: break-word;
+  }
+  
+ .answer{
+     display: none;
+ }
+
+
+ .nav-item.nav-link{
+    color: whitesmoke;
+    margin-top: 40px;
+    font-size: 50px;
+ }
+  
+.question{
+  width: auto;
+}
